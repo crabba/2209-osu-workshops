@@ -19,4 +19,19 @@ To access the command line in Cloud9, click the green '+' icon and select 'New T
 .. image:: img/cloud9-new-terminal.png
   :width: 600
 
+------------------------------------------------
+Getting Started → Hello World → Monitor Workflow
+------------------------------------------------
+
+Press ``CTRL-C`` to interrupt the '``watch -n 5 -c agc workflow status``' command.
+
+-----------------------
+WDL Pipeline (option 2)
+-----------------------
+
+We will only run option 2 in this workshop, as it completes in around 15 minutes.  This gives us time to watch the resources start up and shut down, and to retrieve the results and log files during the workshop.  You are welcome to run the other workflows, though some of them run for considerably longer.
+
+**Run the GATK germline SNPs and indels workflow**
+
+There is a capitalization error in the instructions; the context is named ``onDemandCtx``, not ``OnDemandCtx``
 

@@ -6,8 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Campus Invent Analytics Workshop'
-copyright = '2022, Andrew Crabb'
+project = 'Campus Invent'
+copyright = '2022'
 author = 'Andrew Crabb'
 
 # -- General configuration ---------------------------------------------------
