@@ -1,6 +1,6 @@
-=========================
-Research Analytics on AWS
-=========================
+=========
+Analytics
+=========
 
 We will be using `Data Engineering Immersion Day <https://catalog.us-east-1.prod.workshops.aws/workshops/976050cc-0606-4b23-b49f-ca7b8ac4b153/en-US>`_ in AWS Workshop Studio.  We will be doing only parts of the immersion day, which are outlined below along with some notes you will need to complete the workshop.
 
